@@ -5,4 +5,4 @@ for i in range(n):
 a=sorted(d.values())
 print("ascending:",a)
 a.reverse()
-print("desc",a)
+print("descending",a)
